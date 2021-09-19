@@ -7,16 +7,16 @@
 ---
 
 ### 사용하는 언어는요 (*/ω＼*) 
-    <br>
 <p>
+    <br>
     <ul>
         <li> c </li> 
         <li> JAVA </li>
         <li> HTML </li>
         <li> CSS <li>
     </ul>
-</p>
     <br>
+</p>
   
 ---
   
