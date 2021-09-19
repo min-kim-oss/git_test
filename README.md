@@ -8,12 +8,10 @@
 
 ### 사용하는 언어는요 (*/ω＼*) 
 <p>
-  <ul>
     <li> c </li> 
     <li> JAVA </li>
     <li> HTML </li>
     <li> CSS <li>
-  </ul>
 </p>
   
 ---
